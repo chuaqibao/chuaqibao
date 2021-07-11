@@ -5,6 +5,6 @@
 - 🔭 I’m currently studying Computer Science at Singapore University of Technology and Design!
 - 📫 Reach out to me at chuaqibao@gmail.com!
 - 💬 Here is [My LinkedIn](https://www.linkedin.com/in/chuaqibao) profile. Simply message me to get in touch!
-- 😄 Random fact about me: I love Psyduck!
+- 😄 Random fact about me: I love Psyduck and own a pair of Psyduck earrings!
 
 [![Qi Bao's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuaqibao)](https://github.com/anuraghazra/github-readme-stats)
